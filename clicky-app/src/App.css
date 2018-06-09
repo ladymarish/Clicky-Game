@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #b20a0a;
+  padding:15px 0 10px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+h1 {
+  margin:0;
+  font-size:4.5em;
+}
+
+h3 {
+  font-size:1.5em;
+}
+
+p {
+  font-size:20px;
+}
+
+.App-intro {
+  margin:0;
+  padding:50px 0 50px;
+  height:260px;
+  color:white;
+  background-image: url('./images/italy-bg.jpg');
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
